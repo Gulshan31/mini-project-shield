@@ -1,4 +1,4 @@
-package com.techverito.service;
+package com.genctechnologies.service;
 
 import static org.mockito.Mockito.mock;
 

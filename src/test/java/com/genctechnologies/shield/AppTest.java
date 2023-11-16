@@ -1,4 +1,4 @@
-package com.techverito.shield;
+package com.genctechnologies.shield;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
