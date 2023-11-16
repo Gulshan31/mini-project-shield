@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: gulshan
+Build-Jdk: 13.0.7
+Main-Class: com.techverito.shield.App
+Created-By: Maven Integration for Eclipse
+
